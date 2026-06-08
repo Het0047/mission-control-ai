@@ -44,7 +44,7 @@ situação crítica, o sistema dispara alertas e ações corretivas automáticas
 
 Abra o notebook no Google Colab:
 
-[Acessar Notebook](https://colab.research.google.com/drive/SEU_LINK_AQUI)
+[Acessar Notebook]([https://colab.research.google.com/drive/SEU_LINK_AQUI](https://colab.research.google.com/github/Het0047/mission-control-ai/blob/main/mission_control_ai.ipynb?authuser=2#scrollTo=ad7cef4a))
 
 Execute as células **em ordem, de cima para baixo**. O Ollama e o modelo Llama
 são instalados automaticamente nas primeiras células (leva ~1–2 min na primeira vez).
