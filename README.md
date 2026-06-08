@@ -57,4 +57,4 @@ Abra o notebook no Google Colab:
 
 ## 🎥 Vídeo de Demonstração
 
-[Assistir ao vídeo]((https://youtu.be/nrQqL8N--8A))
+[Assistir ao vídeo](https://youtu.be/nrQqL8N--8A)
